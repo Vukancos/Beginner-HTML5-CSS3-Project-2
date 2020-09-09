@@ -2,18 +2,15 @@
 
         Default Values
 
-Fonts: Ubuntu, Pacifico (only for logo)
+Fonts: Ubuntu, Pacifico (only for the logo)
 
 Colors:
-1. Imperial Primer: #222f3e;
-2. Wild Caribbean Green: #1dd1a1;
+1. Primary: #222f3e;
+2. Green: #1dd1a1;
 3. Light Grey: #fbfbfb;
 4. Grey: #ccc;
 
 ======================================*/
-/*------------------------------
-        Basic setup
-------------------------------*/
 * {
     box-sizing: border-box;
     margin: 0;
@@ -38,9 +35,7 @@ a {
     margin: 0 auto;
     background-color: #fff;
 }
-/*------------------------------
-            Header
-------------------------------*/
+
 body {
     background-color: #fbfbfb;
 }
@@ -57,9 +52,6 @@ body {
     color: #1dd1a1;
 }
 
-/*------------------------------
-            Nav Menu
-------------------------------*/
 .nav-menu {
     padding: 10px 0 10px 120px;
     text-transform: uppercase;
@@ -103,9 +95,7 @@ body {
     margin: 20px 170px;
     text-align: center;
 }
-/*------------------------------
-          Journey ways
-------------------------------*/
+
 .journey-ways {
     width: 90%;
     margin: auto;
@@ -161,9 +151,7 @@ body {
     margin-top: 10px;
     color: #222f3e;  
 }
-/*------------------------------
-          City Gallery
-------------------------------*/
+
 .city-images {
     padding-top: 40px;
     background-color: #1dd1a1;
@@ -193,9 +181,7 @@ body {
 .city-image p {
     padding: 0 15px 10px 15px;
 }
-/*------------------------------
-            Footer
-------------------------------*/
+
 footer {
     background-color: #222f3e;
     color: #fff;
